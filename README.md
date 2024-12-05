@@ -46,6 +46,7 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 
 - [x] Release training codes.
 - [x] Release evaluating and inferencing codes.
+- [x] Release paper.
 - [ ] Release checkpoints.
 - [ ] Release demo.
 - [ ] Deployment on edge devices.
