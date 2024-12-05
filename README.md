@@ -21,7 +21,7 @@ This repository implements FlashSloth, an innovative lightweight multimodal larg
 - **Enhanced Visual Feature Description:** Even when compressing visual features by 9 times, the model's performance remains comparable to its original version, demonstrating extraordinary feature extraction and compression capabilities.
 - **Extremely Low Training Costs:** Compared to similar models, FlashSloth demonstrates remarkable computational efficiency during training. Requiring only 6.4 GPU hours and 12GB of memory per GPU card to complete pre-training represents a significant resource optimization.
 - **Superior Inference Efficiency:** In critical metrics such as TFLOPs, GPU memory usage, response time, and throughput, FlashSloth dramatically outperforms other lightweight MLLMs. Check out [our paper].
-- **Outstanding Model Performance:** Despite using relatively limited training data, FlashSloth maintains competitive performance with current state-of-the-art (SOTA) methods and even achieves superior results in several visual language (VL) tasks. For instance, scoring 75.7 on the MMB benchmark and 75.3 on the AI2D dataset. Check out our [model zoo].
+- **Outstanding Model Performance:** Despite using relatively limited training data, FlashSloth maintains competitive performance with current state-of-the-art (SOTA) methods and even achieves superior results in several visual language (VL) tasks. For instance, scoring 75.7 on the MMB benchmark and 75.3 on the AI2D dataset. Check out our - [Model Zoo](https://github.com/codefanw/FlashSloth/tree/main?tab=readme-ov-file#model-zoo)
 
 ### Model Architecture Updates:
 
