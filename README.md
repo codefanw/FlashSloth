@@ -55,10 +55,10 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 
 ## 🥤Contents
 
-- [Setup](##Setup)
-- [Training](##Training)
-- [Evaluation&Inference](##Evaluation)
-- [Model Zoo](https://github.com/luogen1996/LaVIN/blob/main/README.md#model-zoo)
+- [Setup](https://github.com/codefanw/FlashSloth/blob/main/README.md##Setup)
+- [Training](https://github.com/codefanw/FlashSloth/blob/main/README.md##Training)
+- [Evaluation&Inference](https://github.com/codefanw/FlashSloth/blob/main/README.md##Evaluation)
+- [Model Zoo](https://github.com/codefanw/FlashSloth/blob/main/README.md##model-zoo)
 
 
 
