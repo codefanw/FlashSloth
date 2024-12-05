@@ -58,7 +58,7 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 - [Setup](https://github.com/codefanw/FlashSloth/blob/main/README.md#%EF%B8%8F-setup)
 - [Training](https://github.com/codefanw/FlashSloth/tree/main?tab=readme-ov-file#training)
 - [Evaluation&Inference](https://github.com/codefanw/FlashSloth/tree/main?tab=readme-ov-file#evaluation)
-- [Model Zoo]([https://github.com/codefanw/FlashSloth/blob/main/README.md##model-zoo](https://github.com/codefanw/FlashSloth/tree/main?tab=readme-ov-file#model-zoo))
+- [Model Zoo](https://github.com/codefanw/FlashSloth/tree/main?tab=readme-ov-file#model-zoo)
 
 
 
