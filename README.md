@@ -210,5 +210,7 @@ python inference.py
 [![Star History Chart](https://api.star-history.com/svg?repos=codefanw/FlashSloth&type=Date)](https://star-history.com/#codefanw/FlashSloth&Date)
 
 ## ✨ Example
-![example1](images/example1.png)
-![example2](images/example2.png)
+![example1](images/example1.png =1000x)
+![example2](images/example2.png =1000x)
+![example3](images/example3.png =1000x)
+![example4](images/example4.png =1000x)
