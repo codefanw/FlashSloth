@@ -1,18 +1,20 @@
 
 
-<img src="images\flashsloth_yellow.png" alt="flashsloth_yellow" style="zoom:15%;" />
+<p align="center">
+    <img src="images/flashsloth_yellow.png" width="250" style="margin-bottom: 0.2;"/>
+<p>
 
-<h2 align="center" style="font-size: 22px; color: #003366;">⚡⚡ FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡⚡</h2>
+<h4 align="center">⚡<a href="https://arxiv.org/abs/xxx">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodefanw%2FFlashSloth&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)
 
-
+<hr style="border: 1px solid #000; width: 80%; margin: auto;">
 
 ## 👣Introduction
 
 This repository implements FlashSloth, an innovative lightweight multimodal large language model (MLLM). Through a unique embedded visual compression design, FlashSloth significantly enhances the descriptive capabilities of visual tokens while maintaining exceptional performance, even with a substantial reduction in visual token count. 
 
-<img src="images\performance.png" width="800" />
+![main](images/performance.png)
 
 ### key advantages:
 
@@ -25,7 +27,7 @@ This repository implements FlashSloth, an innovative lightweight multimodal larg
 
 FlashSloth enhances visual feature description by ingeniously integrating Spatial Attention Pooling (SAP) and Embedded Query Module (EmbQ), enabling precise and efficient visual information extraction:
 
-![main](images\main.png)
+![main](images/main.png)
 
 - **Spatial Attention Pooling (SAP)**: This module employs an intelligent attention weight allocation strategy, selectively aggregating visual features within image regions. SAP effectively compresses redundant visual tokens while capturing the most salient and meaningful visual characteristics, achieving information distillation and concentration.
 - **Embedded Query Module (EmbQ)**: A lightweight and highly integrated module within the FlashSloth architecture, EmbQ directly extracts instruction-relevant information from images. By eliminating the need for additional language modeling or complex alignment pre-training, the module simplifies the model design while significantly improving multi-modal input processing efficiency and accuracy.
