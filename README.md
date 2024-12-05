@@ -207,7 +207,7 @@ python inference.py
 
 ## 🌟 Star History
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2x1RG1oZGw0SFJuNnRrdlhOVlFzalpjcVl6NFBKTDFGQ1JzWQ==#codefanw/FlashSloth.git&Date" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=codefanw/FlashSloth.git&type=Date)](https://star-history.com/#codefanw/FlashSloth.git&Date)
 
 ## ✨ Example
 ![example1](images/example1.png)
