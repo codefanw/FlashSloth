@@ -16,7 +16,7 @@ This repository implements FlashSloth, an innovative lightweight multimodal larg
 
 ![main](images/performance.png)
 
-### key advantages:
+### Key advantages:
 
 - **Enhanced Visual Feature Description:** Even when compressing visual features by 9 times, the model's performance remains comparable to its original version, demonstrating extraordinary feature extraction and compression capabilities.
 - **Extremely Low Training Costs:** Compared to similar models, FlashSloth demonstrates remarkable computational efficiency during training. Requiring only 6.4 GPU hours and 12GB of memory per GPU card to complete pre-training represents a significant resource optimization.
