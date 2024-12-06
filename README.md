@@ -4,9 +4,9 @@
     <img src="images/flashsloth_yellow.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
-<h4 align="center">⚡<a href="https://arxiv.org/abs/2412.04317">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>
+<h4 align="center">⚡<a href="https://arxiv.org/abs/2412.04317">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>  
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)   [![arXiv](https://img.shields.io/badge/Arxiv-2412.04317-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.04317)
 
 <hr style="border: 1px solid #000; width: 80%; margin: auto;">
 
