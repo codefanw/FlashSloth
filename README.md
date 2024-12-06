@@ -39,7 +39,7 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 ## 📣 News
 
 - **[2024.12.05]** 🔥🔥🔥 We release the model architecture and training code for FlashSloth, and provide two evaluation methods.
-
+- **[2024.12.06]** 🚀 We release our paper on arXiv: FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression.
   
 
 ## 🗓️TODO
