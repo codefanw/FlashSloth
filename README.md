@@ -212,6 +212,7 @@ python inference.py
 
 ## ✨ Example
 ![example1](images/example1.png)
-![example2](images/example2.png)
+![example2](images/e1.png)
 ![example3](images/example3.png)
-![example4](images/example4.png)
+![example4](images/e2.png)
+![example5](images/e3.png)
