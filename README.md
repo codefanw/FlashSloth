@@ -4,7 +4,7 @@
     <img src="images/flashsloth_yellow.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
-<h4 align="center">⚡<a href="https://arxiv.org/abs/xxx">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>
+<h4 align="center">⚡<a href="https://arxiv.org/abs/2412.04317">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)
 
