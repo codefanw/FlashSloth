@@ -227,6 +227,6 @@ python inference.py
   <img src="images/e3.png" alt="example5">
 </p>
 <p align="center">
-  <img src="images/e4.png" alt="example6">
+  <img src="images/e4.jpg" alt="example6">
 </p>
 
