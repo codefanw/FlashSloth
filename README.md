@@ -230,3 +230,15 @@ python inference.py
   <img src="images/e4.jpg" alt="example6">
 </p>
 
+## ✏️ Citation
+
+If you find our paper and code useful, please give a star and citation.
+
+```bibtex
+@article{tong2024flashsloth,
+  title={FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression},
+  author={Tong, Bo and Lai, Bokai and Zhou, Yiyi and Luo, Gen and Shen, Yunhang and Li, Ke and Sun, Xiaoshuai and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2412.04317},
+  year={2024}
+}
+```
