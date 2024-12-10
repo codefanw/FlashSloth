@@ -232,7 +232,7 @@ python inference.py
 
 ## ✏️ Citation
 
-If you find our paper and code useful, please give a star and citation.
+If you find our paper and code helpful, we kindly invite you to give it a star and consider citing our work.
 
 ```bibtex
 @article{tong2024flashsloth,
