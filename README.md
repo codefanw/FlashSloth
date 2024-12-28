@@ -195,6 +195,8 @@ python inference.py
 | :-----------: | :----------------: | :--: | :----: | :--: | :----: | :--------: | :--: | :-------: | :--: | :--: | :-----: | :--: | :-----: | :----: | :---------: |
 |  FlashSloth   | <u>[FlashSloth](https://huggingface.co/Tongbo/FlashSloth-3.2B)</u> | 86.3 | 1702.0 | 73.0 |  41.9  |    68.0    | 39.7 |   42.5    | 61.1 | 88.6 |  64.6   | 72.5 |  51.0   |  48.6  |    54.8     |
 | FlashSloth_HD | <u>[FlashSloth_HD](https://huggingface.co/Tongbo/FlashSloth_HD-3.2B)</u> | 87.2 | 1745.0 | 75.7 |  49.0  |    71.2    | 37.8 |   40.6    | 62.5 | 91.1 |  71.0   | 75.3 |  69.8   |  74.8  |    59.9     |
+
+
 In order to help reproduce our results, we also provide the weights after the first-stage training:[FlashSloth-stage1](https://huggingface.co/Tongbo/FlashSloth-3.2B-Stage1)
 
 
