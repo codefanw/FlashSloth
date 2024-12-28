@@ -40,14 +40,14 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 
 - **[2024.12.05]** 🔥🔥🔥 We release the model architecture and training code for FlashSloth, and provide two evaluation methods.
 - **[2024.12.06]** 🚀 We release our paper on arXiv: FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression.
-  
+- **[2024.12.06]** 💫 We release our model weights on HuggingFace. Enjoy it!
 
 ## 🗓️TODO
 
 - [x] Release training codes.
 - [x] Release evaluating and inferencing codes.
 - [x] Release paper.
-- [ ] Release checkpoints.
+- [x] Release checkpoints.
 - [ ] Release demo.
 - [ ] Deployment on edge devices.
 - [ ] Support more modalities, e.g., audio and video.
@@ -193,9 +193,9 @@ python inference.py
 
 |     Model     |     Checkpoint     | POPE |  MME   | MMB  | MM-Vet | SEED-Image | MMMU | MathVista | GQA  | SQA  | TextVQA | AI2D | ChartQA | DocVQA | RealWorldQA |
 | :-----------: | :----------------: | :--: | :----: | :--: | :----: | :--------: | :--: | :-------: | :--: | :--: | :-----: | :--: | :-----: | :----: | :---------: |
-|  FlashSloth   | <u>coming soon</u> | 86.3 | 1702.0 | 73.0 |  41.9  |    68.0    | 39.7 |   42.5    | 61.1 | 88.6 |  64.6   | 72.5 |  51.0   |  48.6  |    54.8     |
-| FlashSloth_HD | <u>coming soon</u> | 87.2 | 1745.0 | 75.7 |  49.0  |    71.2    | 37.8 |   40.6    | 62.5 | 91.1 |  71.0   | 75.3 |  69.8   |  74.8  |    59.9     |
-
+|  FlashSloth   | <u>[FlashSloth](https://huggingface.co/Tongbo/FlashSloth-3.2B)</u> | 86.3 | 1702.0 | 73.0 |  41.9  |    68.0    | 39.7 |   42.5    | 61.1 | 88.6 |  64.6   | 72.5 |  51.0   |  48.6  |    54.8     |
+| FlashSloth_HD | <u>[FlashSloth_HD](https://huggingface.co/Tongbo/FlashSloth_HD-3.2B)</u> | 87.2 | 1745.0 | 75.7 |  49.0  |    71.2    | 37.8 |   40.6    | 62.5 | 91.1 |  71.0   | 75.3 |  69.8   |  74.8  |    59.9     |
+In order to help reproduce our results, we also provide the weights after the first-stage training:[FlashSloth-stage1](https://huggingface.co/Tongbo/FlashSloth-3.2B-Stage1)
 
 
 ## 🤝 Acknowledgments
