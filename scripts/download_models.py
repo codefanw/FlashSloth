@@ -4,7 +4,7 @@ from huggingface_hub import snapshot_download
 
 snapshot_download(
     repo_id="microsoft/phi-2", 
-    revision="d3186761bf5c4409f7679359284066c25ab668ee",
+    revision="ef382358ec9e382308935a992d908de099b64c23",
     local_dir='checkpoints/base/phi-2',
     local_dir_use_symlinks=False
 )
