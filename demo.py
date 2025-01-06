@@ -20,7 +20,7 @@ from threading import Thread
 
 disable_torch_init()
 
-MODEL_PATH_HD = "/data/tb/rebuttal/FlashSloth/model/flashsloth_hd"
+MODEL_PATH_HD = "Tongbo/FlashSloth_HD-3.2B"
 MODEL_PATH_NEW = "Tongbo/FlashSloth-3.2B"
 
 model_name_hd = get_model_name_from_path(MODEL_PATH_HD)
