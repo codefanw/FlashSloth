@@ -5,7 +5,7 @@
 <p>
 
 <h4 align="center">⚡<a href="https://arxiv.org/abs/2412.04317">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>  
-
+[![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/Tongbo)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)   [![arXiv](https://img.shields.io/badge/Arxiv-2412.04317-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.04317)
 
 <hr style="border: 1px solid #000; width: 80%; margin: auto;">
@@ -48,7 +48,8 @@ The synergistic interaction between these two modules enables FlashSloth to achi
 - [x] Release evaluating and inferencing codes.
 - [x] Release paper.
 - [x] Release checkpoints.
-- [ ] Release demo.
+- [x] Release demo.
+- [ ] Release the model with stronger Chinese language capabilities.
 - [ ] Deployment on edge devices.
 - [ ] Support more modalities, e.g., audio and video.
 
@@ -181,12 +182,13 @@ bash eval.sh
 
 ### Inference
 
-You can use the following script to perform single-turn dialogue inference (our demo will coming soon).
+You can run the following command to start the model demo.
 
 ```
-python inference.py
+pip install gradio==3.43.2
+python demo.py
 ```
-
+We have also deployed flashsloth demo on [Hugging Face space](https://huggingface.co/spaces/Tongbo/flashsloth), but it takes a longer time to wake up. If you need to use the online demo, please wait for about 5 minutes.
 
 
 ## 🦥Model Zoo
