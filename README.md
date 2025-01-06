@@ -7,7 +7,6 @@
 <h4 align="center">⚡<a href="https://arxiv.org/abs/2412.04317">FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression ⚡</a></h4>  
 
 [![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/Tongbo)
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/codefanw/FlashSloth/blob/main/LICENSE)   [![arXiv](https://img.shields.io/badge/Arxiv-2412.04317-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2412.04317)
 
 <hr style="border: 1px solid #000; width: 80%; margin: auto;">
